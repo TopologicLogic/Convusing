@@ -3,5 +3,6 @@ Circa 2018... My first attempt at using Keras, Channel-Wise Networks, and genera
 
 The final model design was initially based on Xception but took on a life completely of it's own, producing some pretty neat multi-headed/inter-layer connections.  
 
+![Test](test.png)
 ![Model -1](https://raw.githubusercontent.com/TopologicLogic/Convusing/master/test.png)
 
